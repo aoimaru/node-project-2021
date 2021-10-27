@@ -58,6 +58,10 @@ console.log(item);
 
 
 // ***********************************
-// this
+// class
+const mc = require("./lib/class_dec/class_dec.js");
+// const mcs = new mc.MyClass("nakamura", 22);
+// console.log(mcs.name, mcs.age);
+
 
 // ***********************************
