@@ -37,14 +37,14 @@ cond_branch.cb(12);
 // ***********************************
 
 
-// ***********************************
-// 条件分岐
-const cond_branch = require("./lib/condtion_branch/cb.js");
+// // ***********************************
+// // 条件分岐
+// const cond_branch = require("./lib/condtion_branch/cb.js");
 
-cond_branch.cb("中村");
-cond_branch.cb(9);
-cond_branch.cb(12);
-// ***********************************
+// cond_branch.cb("中村");
+// cond_branch.cb(9);
+// cond_branch.cb(12);
+// // ***********************************
 
 
 // ***********************************
