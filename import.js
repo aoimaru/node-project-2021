@@ -35,3 +35,22 @@ cond_branch.cb("中村");
 cond_branch.cb(9);
 cond_branch.cb(12);
 // ***********************************
+
+
+// ***********************************
+// 条件分岐
+const cond_branch = require("./lib/condtion_branch/cb.js");
+
+cond_branch.cb("中村");
+cond_branch.cb(9);
+cond_branch.cb(12);
+// ***********************************
+
+
+// ***********************************
+// this
+const ft = require("./lib/func_this/ft.js");
+
+const item = ft.func_this();
+console.log(item);
+// ***********************************
