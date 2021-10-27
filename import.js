@@ -21,7 +21,17 @@ var_dec.variable();
 
 // ***********************************
 // 変数のデフォルト引数
-// const func_dec = require("./lib/func_dec/fd.js");
+const func_dec = require("./lib/func_dec/fd.js");
 // func_dec.default_arg("Not default");
 // func_dec.default_arg();
+// ***********************************
+
+
+// ***********************************
+// 条件分岐
+const cond_branch = require("./lib/condtion_branch/cb.js");
+
+cond_branch.cb("中村");
+cond_branch.cb(9);
+cond_branch.cb(12);
 // ***********************************
