@@ -17,3 +17,11 @@ const var_dec = require("./lib/var_dec/var_dec.js");
 var_dec.variable();
 
 // ***********************************
+
+
+// ***********************************
+// 変数のデフォルト引数
+// const func_dec = require("./lib/func_dec/fd.js");
+// func_dec.default_arg("Not default");
+// func_dec.default_arg();
+// ***********************************
