@@ -66,4 +66,6 @@ const mc = require("./lib/class_dec/class_dec.js");
 const branch = "branch to branch";
 console.log(branch);
 
+console.log("Hello Master");
+
 // ***********************************
